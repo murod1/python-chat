@@ -1,6 +1,6 @@
 <h1 align="center">Python Chat App 💬</h1>
 
-About This Course:
+About This Project:
 
 -   🚀 Python virtual environment setup
 -   💬 Socket.io and Flask integration
